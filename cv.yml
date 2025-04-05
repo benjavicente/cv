@@ -1,0 +1,251 @@
+personal:
+  name: Benjamín Vicente Goecke
+  linkedin: https://linkedin.com/in/benjavicente
+  github: https://github.com/benjavicente
+  about: >
+    Aficionado con como desarrollar sistemas web de punta de forma escalable,
+    considerando diferentes aristas como mantenimiento del código,
+    escalabilidad de los patrones de diseño empleados, experiencia de usuario
+    y experiencia de los desarrolladores.
+
+# TODO: me carga esta wea
+skills:
+  - category: Lenguajes
+    skills: TypeScript, Python, Ruby, SQL
+  - category: Frameworks
+    skills: Convex, NextJS, Supabase, Firebase, Rails, FastAPI
+  - category: Tools
+    skills: GitHub, Figma, Linear, Cloudflare, Docker
+
+education:
+  - name: Pontificia Universidad Católica de Chile
+    degree: Ingeniero de Software
+    location: Santiago, Chile
+    date: 2019 - 2024
+
+experience:
+  - name: MOME
+    url: https://mome.cl
+    description: Sistema de ventas WhiteLabel para el mundo inmobiliario.
+    roles:
+      - name: CTO
+        date: 09/2024 - ahora
+        points:
+          - Implementé un sistema de IA copiloto a agentes de ventas e integrado al CRM con _workflows_.
+          - Desarrollé un sistema _WhiteLabel_ para el desarrollo más ágil de webs de proyectos inmobiliarios.
+          - Creé automatizaciones para agilizar los procesos de venta con APIs y Scrappers.
+      - name: Ingeniero de Software
+        date: 05/2024 - 08/2024
+        points:
+          - Desarrollé las páginas web de proyectos inmobiliarios.
+
+  - name: TOCTOC
+    url: https://www.toctoc.com
+    description: Marketplace inmobiliario con mayor impacto en la industria chilena.
+    roles:
+      - name: Practicante
+        date: 01/2023 - 03/2023
+        points:
+          - Implementé con patrones declarativos el sistema de navegación de TOCTOC.
+          - Trabajé en la implementación del Design System con React y MUI.
+
+  - name: Toki - Capstone
+    description: Proyecto de especialidad de la licenciatura de Ingeniería de Software
+    roles:
+      - name: Administrador de Desarrollo
+        date: 08/2022 - 12/2022
+        points:
+          - Elegido como administrador de un proyecto de software de 12 personas.
+          - Comuniqué y ordené tareas usando las plataformas del curso.
+          - Monitore el diseño y la calidad de código.
+          - Presenté avances del proyecto a clientes y al cuerpo docente.
+
+  - name: Clearn
+    url: https://www.clearn.cl
+    description: Sistema de evaluaciones del ramo Introducción a la Programación, DCC PUC
+    roles:
+      - name: Practicante
+        date: 01/2022 - 03/2022
+        points:
+          - Desarrollé un sistema para evaluar código de estudiantes de forma segura y práctica en Google Cloud Functions.
+          - Creé un sistema para la grabación de los cambios que realizan los estudiantes en las evaluaciones.
+          - Diseñé la identidad visual de la aplicación.
+
+extracurriculum:
+  - name: Open Source UC
+    role: Coordinador General
+    date: 2021 - 2023
+    points:
+      - Principal organizador de la comunidad de código abierto de la Universidad Católica de Chile.
+      - Cree material de difusión, apoyé en el desarrollo de talleres y en el impulso y creación de múltiples proyectos.
+      - He participado como mentor luego de mi egreso.
+
+  - name: Capítulo de Ciencia de la Computación
+    role: Coordinador General
+    date: "2023"
+    points:
+      - Potencie la comunidad del Departamento de Ciencia de la Computación de la Universidad Católica.
+      - Organicé actividades académicas, sobre investigación y recreativas con miembros del departamento
+      - Organizé eventos con empresas para mejorar la inserción académica de los estudiantes.
+      - Previamente, había apoyado como miembro en el equipo del 2021 y 2022.
+
+# TODO: ayudante "experto" va aquí?
+certifications:
+  - name: FCE B2 - Grade C
+    org: Cambridge English
+
+events:
+  - name: Platanus Hack 2024
+    date: 11/2024
+    url: https://hack.platan.us/
+    role: Participante
+    points:
+      - Desarrollamos un generador de evaluaciones para colegios.
+      - Usamos un sistema de agentes de IA y sistemas en tiempo real.
+      - 2do lugar en la categoría de educación.
+
+  - name: Hack.ING 2024
+    date: 03/2024
+    url: https://security.ing.puc.cl/hack.ing-0x2/
+    role: Staff
+    points:
+      - Ayude en la coordinación del evento.
+      - Creé material gráfico y la página web de cierre.
+      - Desarrollé múltiples _challenges_ para el evento.
+
+projects:
+  - name: Platanus Hack Curve 2024
+    date: 11/2024
+    url: https://github.com/rafafdz/platanus-hack-curve
+    # TODO: subir una foto al repo
+    points:
+      - Pantalla arriba del espacio de la Platanus Hack 2024.
+      - Mostraba commits, la música  actual, y dibujos de participantes en tiempo real.
+
+  - name: Páginas web varias de iniciativas estudiantiles
+    date: 11/2022 - 03/2024
+    points:
+      - Diseñe e implementé la página del [Capítulo de Ciencias de la Computación](https://ccc.ing.puc.cl) y [Open Source UC](https://osuc.dev/)
+      - Apoye en el desarrollo de la [página de Security UC Club](https://security.ing.puc.cl/)
+
+  - name: UbiCate (prev buscasalas)
+    date: 07/2021 - 04/2022
+    url: https://github.com/open-source-uc/UbiCate
+    points:
+      - Creé un sistema para la búsqueda de salas y otras ubicaciones de interés en la universidad.
+      - Realicé multiples prototipos con diferentes tecnologías, desde HTML/CSS/JS básico, Figma, Svelte y NextJS.
+      - Fue difundido por la cuenta oficial de la universidad y llegó a miles de usuarios.
+
+  - name: UCalendar
+    url: https://github.com/benjavicente/ucalendar
+    date: 12/2020 - 05/2021
+    points:
+      - Creé un sistema para obtener el horario de cursos y sus evaluaciones para integrarlo a aplicaciones de calendarios.
+      - Investigue y empleé el formato iCal junto a un sistema propio para establecer que días no hay clases.
+      - Pude mantenerlo por 7 semestres (hasta 2024-1) sin cambios significativos.
+
+  - name: Summer of Code 2020-2021
+    url: https://benjavicente.github.io/summer-of-code-2020-2021
+    date: 12/2020 - 02/2021
+    points:
+      - Desarrollé múltiples pequeños en el verano, de diferente tipo.
+      - Aprendí más de Rails, Julia, Visualisaciones de Datos, Parsing, CLIs, y CSS.
+
+volunteering:
+  - name: COANIQUEM
+    role: Asistente de tienda (Practica Solicaria)
+    date: 02/2022
+    points:
+      - Trabajé en equipo para mantener el orden en la tienda y ayudar a los clientes.
+      - Procesé y ordené las donaciones recibidas.
+
+  - name: SeedING
+    date: 06/2021 - 11/2021
+    role: Ayudante del taller de programación
+    points:
+      - Preparé material de programación a estudiantes escolares.
+      - Realicé una clase introductoria sobre la programación.
+
+research:
+  - name: Complex Event Recognition Engine (CORE)
+    role: Asistente de Investigación (Investigacixón de Pregrado)
+    date: 03/2024 - 06/2024
+    url: https://github.com/CORE-cer/CORE
+    points:
+      - Participé en la implementación de CORE, un motor de reconocimientos de eventos basado en autómatas.
+      - Implementé un operador del motor, considerando autómata, parsing, y transformación.
+
+  - name: Sistema de toma ágil de asistencia
+    role: Administrador de Investigación (Investigacixón de Pregrado)
+    date: 08/2023 - 11/2023
+    points:
+      - Organice la investigación, que buscó identificar y desarrollar un método ágil, seguro, y privado de la toma de asistencia.
+      - Empleamos técnicas de criptografía para la toma de asistencia sin el almacenamiento de datos privados.
+
+teaching:
+  - name: Diseño Avanzado de Aplicaciones Web (IIC3585)
+    roles:
+      - name: Ayudante
+        date: 2025-1
+        points:
+          - Apoyé en las clases, elaboración y revisión de tareas.
+          - Entregando [material complementario](https://github.com/IIC3585/2025-1-s1-syllabus) a los estudiantes.
+
+  - name: Estructuras de Datos y Algoritmos (IIC3585)
+    roles:
+      - name: Coordinador de Tareas
+        date: 2024-1
+        points:
+          - Coordine el equipo que elaboró las tareas del semestre.
+          - Empleé nuevos mecanismos de seguimiento para todos los ayudantes.
+          - Desarrollé automatizaciones para la evaluación de las tareas.
+      - name: Ayudante
+        date: 2023-2
+        points:
+          - Participe en la elaboración de tareas del ramo.
+          - Ayude a planificar y realicé ayudantías para los estudiantes.
+          - Apoyé en la corrección de evaluaciones de los alumnos.
+          - Asistí en el seguimiento y sistemas de corrección existentes.
+
+  - name: Arquitectura de Computadores (IIC2343)
+    roles:
+      - name: Ayudante de Cátedra
+        date: 2023-2
+        points:
+          - Participé en la elaboración de ayudantías para el curso, preparando enunciados, ejercicios y material de apoyo.
+          - Porté con WASM un sistema en Rust que permitió a estudiantes realizar un control ágilmente y sin instalar software.
+
+  - name: Exploratorio Computación (IIC1005)
+    roles:
+      - name: Ayudante
+        date: 2023-1 a 2023-2
+        points:
+          - Apoye en las clases del curso introductorio a la especialidad de computación.
+          - Organice clases y apoye en la preparación de material.
+          - Desarrollé un sistema web que permitió pasar la asistencia agil e interactivamente a los alumnos, utilizando NextJS y Google SpreadSheets.
+
+  - name: Introducción a la Programación (IIC1103)
+    roles:
+      - name: Sub Coordinador de Desarrollo
+        date: 2022-2
+        points:
+          - Apoye en la coordinación del equipo de desarrollo.
+          - Presenté avances al departamento de computación.
+          - Impulsé ecnicamente al equipo de desarrollo.
+      - name: Ayudante de Tareas
+        date: 2021-1 a 2021-2
+        points:
+          - Desarrollador de tareas en el curso.
+          - Creé herramientas para agilizar el desarrollo, como un programa para testear soluciones contra los casos de prueba generados.
+      - name: Ayudante de Laboratorio
+        date: 2020-1 a 2020-2
+        points:
+          - Ayudante de alumnos en uno de los cursos de la maya común de Ingeniería, asistiéndolos en los ejercicios del curso.
+
+  - name: Bases de Datos (IIC2413)
+    roles:
+      - name: Ayudante de General
+        date: 2020-2
+        points:
+          - Realizando tareas como correcciones, asistir a alumnos y preparar ayudantías.
+          - Ayudé en la creación de datos para el curso, utilizando una API apicalypse de películas, y ORM SQLModel.
